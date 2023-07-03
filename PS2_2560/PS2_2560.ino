@@ -6,12 +6,12 @@
 #define PWMB 8    //B电机转速  
 #define DIRB1 37 
 #define DIRB2 36  //B电机方向
-#define PWMC 6   //C电机转速 9 change the 6
+#define PWMC 9   //C电机转速 9 change the 6
 #define DIRC1 43 
 #define DIRC2 42  //C电机方向
 #define PWMD 5    //D电机转速
-#define DIRD1 A4  //26  
-#define DIRD2 A5 //27  //D电机方向
+#define DIRD1 26  //26  
+#define DIRD2 27 //27  //D电机方向
 
 //PS2
 #define PS2_DAT        52  //14    
